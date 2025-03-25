@@ -9,13 +9,6 @@ body {
   max-width: 800px;
 }
 
-h1,
-h2,
-h3 {
-  text-align: center;
-  margin: 0;
-}
-
 h1 {
   font-size: 96px;
 }
